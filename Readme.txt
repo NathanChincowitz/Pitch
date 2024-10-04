@@ -1,4 +1,4 @@
-nathanchincowitz.github.io/Pitch/
+https://nathanchincowitz.github.io/Pitch/
 
 Site criado  para mostrar mais sobre mim, currículo e futuro portifólio
 
